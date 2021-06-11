@@ -6,7 +6,7 @@ This app takes in a .csv file, parses it to an array of arrays which contain eac
 
 ## Instructions
 
-To start the app run the two commands below while in the project directory. After navigate to http://localhost:3000 in your browser.
+To start the app run the two commands below while in the project directory. After, navigate to http://localhost:3000 in your browser.
 
 ### `npm install`
 ### `npm start`
